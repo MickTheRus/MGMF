@@ -1,0 +1,15 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_msmf_ap_one_purpose"
+		texturefile = "gfx/interface/icons/ascension_perks/msmf_ap_one_purpose.dds"
+		alwaystransparent = yes
+	}
+}
+
+spriteTypes = {
+	spriteType = {
+		name = "GFX_msmf_ap_true_purpose"
+		texturefile = "gfx/interface/icons/ascension_perks/msmf_ap_true_purpose.dds"
+		alwaystransparent = yes
+	}
+}
