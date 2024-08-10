@@ -1,0 +1,7 @@
+NGameplay = {
+  		SUBJECT_INTEGRATION_BASE_PROGRESS		= 50 # Cost per month for subject integration
+		SUBJECT_INTEGRATION_COST_BASE			= 50 # Base cost for integration
+		SUBJECT_INTEGRATION_COST_PER_POP		= 0.5 # Integration cost per pop
+		SUBJECT_INTEGRATION_COST_PER_PLANET		= 5 # Integration cost per planet
+
+}

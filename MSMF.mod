@@ -5,5 +5,5 @@ tags={
 	"Fixes"
 }
 name="Megastructural Mega Fuckery"
-supported_version="3.11.*"
+supported_version="3.12.*"
 path="/home/mick/.local/share/Paradox Interactive/Stellaris/mod/MSMF"
